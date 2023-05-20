@@ -1,5 +1,8 @@
 name: marp-to-pages
 concurrency: marp-to-pages
+permissions:
+  contents: write
+
 on:
   push:
     branches: [ main ]
