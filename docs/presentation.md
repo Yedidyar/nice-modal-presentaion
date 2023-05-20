@@ -16,6 +16,7 @@ with react context
 Yedidya Rashi
 
 ---
+
 <style scoped>
 section {
   display: flex;
@@ -32,7 +33,7 @@ section {
 ## Motivation
 
 Using modals in React is a bit frustrating. Think of that if you need to implement below UI:
-![w:750](./modal-example.jpg)
+![w:750](../img/modal-example.jpg)
 
 ---
 
