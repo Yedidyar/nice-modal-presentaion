@@ -1,5 +1,4 @@
 {
-  "markdown.marp.themes": [
-    "./themes/dracula.css"
-  ]
+  "markdown.marp.themes": ["./themes/dracula.css"],
+  "markdown.marp.enableHtml": true
 }

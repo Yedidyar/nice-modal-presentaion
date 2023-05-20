@@ -15,12 +15,15 @@ with react context
 
 Yedidya Rashi
 
-
 ---
-<br/>
-<br/>
-<br/>
-<br/>
+<style scoped>
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+</style>
 
 # What We're Going to Cover
 
@@ -32,8 +35,14 @@ Using modals in React is a bit frustrating. Think of that if you need to impleme
 ![w:750](./modal-example.jpg)
 
 ---
-<br/>
-<br/>
+
+<style scoped>
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+</style>
 
 ```typescript
 const Root = () => {
@@ -118,4 +127,39 @@ export default NiceModal.create(({ name }) => {
 
 ---
 
+<style scoped>
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+</style>
+
 # [Examples](https://opensource.ebay.com/nice-modal-react/)
+
+---
+
+<style scoped>
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+</style>
+
+# Questions
+
+---
+
+<style scoped>
+section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+</style>
+
+# Thank You!
